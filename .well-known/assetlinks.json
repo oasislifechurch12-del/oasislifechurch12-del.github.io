@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.oasislifechurch.oasis",
+      "sha256_cert_fingerprints": ["D1:C9:51:03:2B:3F:FE:05:D3:6B:B3:59:F5:35:92:14:9A:5B:CC:06:EC:26:02:C3:31:C5:C5:41:BD:07:6E:7D"]
+    }
+  }
+]
